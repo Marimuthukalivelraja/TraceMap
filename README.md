@@ -26,8 +26,4 @@
 4. **Generate World Map**  
    - Uses Pandas and Plotly Express to create an interactive map displaying the hops and connections.
 
----
 
-## Example Workflow 🛠️  
-
-### Input:
